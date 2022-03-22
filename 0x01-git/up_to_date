@@ -1,1 +1,1 @@
-echo "limp" > up_to_date
+touch
